@@ -4,7 +4,7 @@
   * [在 BifrostV 上配置](Android/BifrostV.md)
   * [在 Surfboard 上配置](Android/Surfboard.md)
   * [在 Shadowsocks 上配置](Android/Shadowsocks.md)
-  * [在 ShadowsocksD 上配置](Android/ShadowsocksD.md)
+  * [在 ShadowsocksD 上配置（弃用）](Android/ShadowsocksD.md)
   * [在 ShadowsocksR 上配置](Android/ShadowsocksR.md)
 
 * iOS
@@ -23,7 +23,7 @@
   * [在 SSTap 上配置](Windows/SSTap.md)
   * [在 V2RayN 上配置](Windows/V2RayN.md)
   * [在 Shadowsocks 上配置](Windows/Shadowsocks.md)
-  * [在 ShadowsocksD 上配置](Windows/ShadowsocksD.md)
+  * [在 ShadowsocksD 上配置（弃用）](Windows/ShadowsocksD.md)
   * [在 ShadowsocksR 上配置](Windows/ShadowsocksR.md)
   * [在 Clash for Windows 上配置](Windows/Clash-for-Windows.md)
 
